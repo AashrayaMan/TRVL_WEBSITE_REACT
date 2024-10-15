@@ -1,0 +1,188 @@
+.Logins{
+   width: 90%;
+   height: 80vh;
+   background: #ffffff;
+   padding-top: 100px;
+   margin-bottom: -150px;
+   /* margin-top: -50px; */
+   margin-left: 135px; 
+  
+
+}
+.login_container{
+    width: 580px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+.login_container h1{
+    margin: 20px 0px;
+}
+.login_fields{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+    background:  rgb(249, 184, 64);
+    min-width: 40%;
+   
+    /* height: 350px; */
+}
+.login_fields h1{
+    text-align: center;
+    margin-left: -7px;
+    color: #ffffff;
+}
+.login_fields input{
+    height: 40px;
+    width: 70%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    font-size: 18px;
+    border-radius: 5px ;
+    margin-left: 30px;
+    margin-top: -20px;
+    margin-bottom: 20px ;
+    z-index: 1;
+    
+    
+
+}
+.login_fields button{
+      width: 79%;
+    margin-left: 30px;
+    height: 12%;
+    cursor: pointer;
+    border-radius: 10px;
+    
+    font-size: 16px;
+    color: #ffffff; 
+    background: rgb(60, 58, 58);
+    z-index: 1;
+}
+.login_fieldss{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 30px;
+    background:  rgb(249, 184, 64);
+    min-width: 40%;
+   
+    /* height: 350px; */
+}
+.login_fieldss h1{
+    text-align: center;
+    margin-left: -7px;
+    color: #ffffff;
+}
+.login_fieldss input{
+    height: 40px;
+    width: 70%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    font-size: 18px;
+    border-radius: 5px ;
+    margin-left: 30px;
+    margin-top: -20px;
+    margin-bottom: 20px ;
+    z-index: 1;
+    
+    
+
+}
+.login_fieldss button{
+      width: 79%;
+    margin-left: 30px;
+    height: 12%;
+    cursor: pointer;
+    border-radius: 10px;
+    
+    font-size: 16px;
+    color: #ffffff; 
+    background: rgb(60, 58, 58);
+    z-index: 1;
+}
+.wholeregis{
+    display: flex;
+    margin-left: -130px;
+    height: 420px;
+    background:  rgb(249, 184, 64);
+    box-shadow: 5px 5px 20px #8e9093 ;
+    
+    
+}
+.wholeregis img{
+    margin-top: 0px;
+    width: 70%;
+   height: 450px;
+   background:  rgb(255, 255, 255);
+ 
+    
+}
+
+.Agree{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 13px;
+    margin-right:10px ;
+    gap: 5px;
+    color: #ffffff;
+}
+.Agree p{
+    margin-top: 2px;
+}
+.Agree input{
+    width: 5%;
+    margin-top: 5px;
+    
+}
+.last p{
+   margin: 0;
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color:#ffffff; 
+    margin-top: -10px ;
+}
+.last span{
+    color: black;
+    font-weight: 600;
+}
+.login_fields img{
+    background: none;
+    width: 40%;
+    height: 160px;
+    margin-top: -100px;
+    margin-left: 80px;
+    
+}
+.login_fieldss img{
+    background: none;
+    width: 40%;
+    height: 160px;
+    margin-top: -100px;
+    margin-left: 80px;
+}
+
+.regislast p{
+    
+    align-items: center;
+  
+    font-size: 13px;
+    margin-bottom: 20px;
+   
+    color:#ffffff; 
+    margin-top: 10px ;
+    margin-left: 40px;
+    
+}
+.regislast span{
+    color: black;
+    font-weight: 600;
+    cursor: pointer;
+    
+}

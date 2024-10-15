@@ -1,0 +1,23 @@
+
+
+.h img{
+    width: 104.7%;
+    height: 40vh;
+    filter: blur(1px);
+}
+.About p{
+    margin-top: -100px;
+    padding: 200px;
+   font-weight: 500;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: justify;
+}
+.About p h2{
+   font-size: 50px;
+}
+img.abb{
+    height: 20vh;
+    width: 20vh;
+}

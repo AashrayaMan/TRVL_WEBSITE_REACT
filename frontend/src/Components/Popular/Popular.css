@@ -1,0 +1,45 @@
+.popular{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 90vh;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    /* flex-wrap: wrap; */
+}
+.extraa{
+    display: inline-block;
+    border-width: 20%;
+    font-family: "Dancing Script", cursive;
+    margin-left: 27px; 
+    font-size: 22px;
+    width:fit-content ;
+    font-weight: 1000;
+    border-radius: 20px;
+    background: rgb(255, 165, 0);
+    margin-left: -75%;
+}
+
+.popular h1{
+    margin-left: -60%;
+    color: #171717;
+    font-size: 40px;
+    font-weight: 600;
+}
+/* .popular hr{
+    width: 200px;   
+    height: 10px;
+    border-radius: 10px;
+    background: #252525;
+} */
+.popular_place {
+    margin: 120px;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 59px;
+}
+    
+    

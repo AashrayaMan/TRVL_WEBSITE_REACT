@@ -1,0 +1,198 @@
+.TourDisplay{
+    display: flex;
+    gap: 30px;
+    margin-top: 80px;
+  
+    justify-content: center;
+    
+}
+
+.TourDisplay img{
+    max-width: 90vh;
+    border-radius: 8px;
+    box-shadow: 5px 5px 20px #8e9093;
+    
+}
+.TourDisplay_l{
+    max-width: 90vh;
+  
+}
+.star{
+    display: flex;
+    
+}
+.star p{
+    margin-left: 10px;
+}
+.star img{
+    height: 18px;
+    margin-top: 2px;
+    box-shadow: none;
+}
+
+
+.intel img{
+    box-shadow: none;
+    width: 15px;
+}
+
+.idk{
+    border:1px solid rgb(215, 207, 207) ;
+    border-radius: 8px;
+    margin-top: 30px;
+    padding: 20px;
+    line-height: 2.3;
+    box-shadow: 2px 2px 12px #8e9093;
+}
+
+.description h4{
+    margin-top: 10px;
+    margin-bottom: 15px; 
+    
+}
+.description p{
+    line-height: 1.7;
+    font-size: 13px;
+    max-width: 80vh;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.TourDisplay_r{
+    max-width: 49vh;
+    display: flex;
+    flex-direction: column;
+    border:1px solid rgb(215, 207, 207) ;
+    padding: 40px;
+    height: fit-content;
+    max-height: fit-content;
+    border-radius: 10px;
+    
+}
+
+.TourDisplay_r img{
+    width: 20px;
+    height: 20px;
+    box-shadow: none;
+}
+.TourDisplay_r button{
+    margin-top: 20px;
+    background:   rgb(249, 184, 64);
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+}
+.TourDisplay_r button:hover{
+    background: rgb(43, 42, 42);
+}
+.headder{
+    display: flex;
+    gap:100px;
+}
+.rrs{
+    font-size: 14px;
+    font-weight: 500;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    
+}
+.info input{
+    margin-top: 5px;
+    padding: 15px;
+    border: none;
+    outline: none;
+    max-width: 35vh;
+
+}
+.info h4{
+    margin-bottom: 20px;
+}
+.ratee{
+    margin-top: 10px;
+}
+
+hr.hrr{
+    background: rgb(224, 219, 219);
+    width: 48vh;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+    border: none;
+    height: 2px;
+    border-radius: 10px;
+}
+.he{
+    display: flex;
+    flex-direction: column;
+}
+hr.hr2{
+    margin-left: 15px;
+    width: 40vh;
+}
+.aba{
+    display: flex;
+    padding: 2px;
+    margin-top: 2px;
+    gap: 10px;
+    
+}
+
+.aba hr{
+    height: 40px;
+    margin-top: 5px;
+}
+
+.aba input{
+    max-width: 12.8vh;
+    margin-left: 2px;
+  
+}
+.pricetot{
+    
+    margin-top: 60px;
+    max-width: 50vh;
+   
+}
+.he{
+    border: 1px solid rgb(226, 223, 223);
+    padding: 10px;
+    
+}
+.he hr{
+    max-width: 40vh;
+    margin-left: 15px;
+    height: 1px;
+    background: rgb(211, 209, 209); 
+    border: none;
+}
+.numb{
+    display: flex;
+    gap:25vh;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.qqqq{
+    margin-left: -20px;
+}
+.qqq{
+    margin-left: -16px;
+}
+.qq{
+    margin-left: 55px;
+}
+hr.aaahhh{
+    width: 1px ;
+    background: rgb(138, 138, 138);  
+    height: 35px;
+}
+.overlayer{
+    display: inline-block;
+    position: sticky;
+    top:50px;
+}
